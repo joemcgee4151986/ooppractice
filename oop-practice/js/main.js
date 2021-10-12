@@ -12,7 +12,7 @@
         alert(`Lock this${this.model} now!`)
     }
 }
-
+ 
   let kia = new MakeCar('kia', 'Morning', 4, 'black')
 */
 /*class ExpressoMachine{ //encapsulation is the process of storing functions(methods) with their associated data(properties ) in one object
